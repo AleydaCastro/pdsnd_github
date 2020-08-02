@@ -17,3 +17,6 @@ Udacity Programming for Data Science with Python Nanodegree
 
 ### Copyright and licensing information
 No copyright
+
+### Last revision date
+Last revision on 08/01/2020
