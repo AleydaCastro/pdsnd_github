@@ -22,7 +22,6 @@ def get_filters():
         city = input("Enter city (Chicago, New York City or Washington): ").title()
         if city not in ("Chicago", "New York City", "Washington"):
             print("Invalid city")
-            #input("Enter city (Chicago, New York City or Washington): ").title()
             continue
         else:
             break
